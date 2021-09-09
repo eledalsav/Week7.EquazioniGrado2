@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.EquazioniGrado2.test"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.EquazioniGrado2.Core", "Week7.EquazioniGrado2.Core\Week7.EquazioniGrado2.Core.csproj", "{D25C45F0-29D5-4139-BD77-FBA64BC3982A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.EquazioniGrado2.WindForm", "Week7.EquazioniGrado2.WindForm\Week7.EquazioniGrado2.WindForm.csproj", "{07BBCB2A-13BE-4EF8-AF0E-D6340624E5C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week7.EquazioniGrado2.WindForm", "Week7.EquazioniGrado2.WindForm\Week7.EquazioniGrado2.WindForm.csproj", "{07BBCB2A-13BE-4EF8-AF0E-D6340624E5C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week7.EquazioniGrado2.Wpff", "Week7.EquazioniGrado2.Wpff\Week7.EquazioniGrado2.Wpff.csproj", "{FDB4074C-C93C-4E6E-81F3-848ABB3F9BD5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{07BBCB2A-13BE-4EF8-AF0E-D6340624E5C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07BBCB2A-13BE-4EF8-AF0E-D6340624E5C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07BBCB2A-13BE-4EF8-AF0E-D6340624E5C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDB4074C-C93C-4E6E-81F3-848ABB3F9BD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB4074C-C93C-4E6E-81F3-848ABB3F9BD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB4074C-C93C-4E6E-81F3-848ABB3F9BD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB4074C-C93C-4E6E-81F3-848ABB3F9BD5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
